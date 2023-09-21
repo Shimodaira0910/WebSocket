@@ -1,1 +1,3 @@
-# WebSocket
+# これはなんだ
+Go言語のフレームワークであるginとGorillaを使ったwebsocketである。
+コンテナ化もできるようになっている。
