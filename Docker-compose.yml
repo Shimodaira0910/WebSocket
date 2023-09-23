@@ -2,7 +2,7 @@ version: '3'
 
 services:
   client_go:
-    container_name: websocket-server
+    container_name: Gorilla-Websocket
     image: go-websocket
     restart: always
     ports:
